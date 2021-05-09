@@ -7,14 +7,14 @@
 
 Welcome to my Github profile. I'm Lezwon Castelino. I am currently working as a Computer Vision Engineer at [Camcom.ai](http://camcom.ai/) :camera:. I am also an ex-core contributor to [PyTorch Lightning](https://www.pytorchlightning.ai/) <img src="S9okWqQ9_400x400.png" width="15">. Following are some of the interesting projects I've worked.
 
-* ### **Reinforcement Learning for FIFA** <img src="soccer-ball.png" width=15> : [Project](https://github.com/lezwon/DeepGamingAI_FIFARL) [Blog](https://becominghuman.ai/reinforcement-learning-with-fifa-and-keras-85ec792e25b2)
+* ### [**Reinforcement Learning for FIFA**](https://github.com/lezwon/DeepGamingAI_FIFARL) <img src="soccer-ball.png" width=15>
      A neural networks learns to take shots to score goals.
 
-* ### **GraphQl-UI** <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" width="10"> :  [Project](https://github.com/lezwon/GraphQl-UI)
-    A form generated based on the GraphQL schema. Kind of like Postman for GraphQl.
+* ### [**GraphQl-UI**](https://github.com/lezwon/GraphQl-UI) <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" width="10"> 
+    A form generated based on the GraphQL schema.
 
-* ### **Category Matching** <img src="iconfinder_football_-30_6780624.png" width="15" /> : [Project](https://github.com/lezwon/category-matching)
-    Matches similar categories from Set A to Set B. e.g Barrister -> Lawyer
+* ### [**Category Matching**](https://github.com/lezwon/category-matching) <img src="iconfinder_football_-30_6780624.png" width="15" />
+    Matches similar categories from Set A to Set B.
 
 <br>
 
