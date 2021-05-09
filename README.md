@@ -4,7 +4,7 @@
 
 <!--Introduction -->
 
-Welcome to my Github profile. I'm Lezwon Castelino. I am currently working as a Computer Vision Engineer at [Camcom.ai](http://camcom.ai/) :camera:. I am also an ex-core contributor to [PyTorch Lightning](https://www.pytorchlightning.ai/) <img src="S9okWqQ9_400x400.png" width="15">. Following are some of the interesting projects I've worked.
+Welcome to my Github profile. I'm Lezwon Castelino. I am currently working as a Computer Vision Engineer at [Camcom.ai](http://camcom.ai/) :camera:. I am also an ex-core contributor to [PyTorch Lightning](https://www.pytorchlightning.ai/) <img src="S9okWqQ9_400x400.png" width="15">. For those interested, following are some of my interesting works on Github :point_down:
 <img align="right" alt="GIF" src="dev.gif" width="400" style="margin:0; padding:0;"/>
 
 * ### [**Reinforcement Learning for FIFA**](https://github.com/lezwon/DeepGamingAI_FIFARL) <img src="soccer-ball.png" width=15>
@@ -14,7 +14,7 @@ Welcome to my Github profile. I'm Lezwon Castelino. I am currently working as a 
     A tool to automatically generate a form generated based on the GraphQL schema. Kin d of like Postman for GraphQL.
 
 * ### [**Category Matching**](https://github.com/lezwon/category-matching) <img src="iconfinder_football_-30_6780624.png" width="15" />
-    A tool to match similar categories from Set A to categories in Set B. For example Barrister is mapped to Lawyer. The solution based on Google Maps data.
+    A tool to match similar categories from Set A to categories in Set B. For example Barrister is mapped to Lawyer.
 
 <br>
 
