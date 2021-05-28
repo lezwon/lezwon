@@ -16,6 +16,7 @@ Welcome to my Github profile. I'm Lezwon Castelino. I am currently working as a 
 * ### [**Category Matching**](https://github.com/lezwon/category-matching) <img src="iconfinder_football_-30_6780624.png" width="10" />
     A tool to match similar categories from Set A to categories in Set B. For example Barrister is mapped to Lawyer.
 
+<br>
 
 # <img src="iconfinder_resolutions-08_897241.png" width="25"/> *Recent Articles*
 
