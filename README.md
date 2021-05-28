@@ -20,11 +20,11 @@ Welcome to my Github profile. I'm Lezwon Castelino. I am currently working as a 
 
 # <img src="iconfinder_resolutions-08_897241.png" width="25"/> *Recent Articles*
 
-*👉 [Build your own Event Loop in Python](https://techtalk.digitalpress.blog/build-your-own-event-loop-in-python/)
+*👉 [**Build your own Event Loop in Python**](https://techtalk.digitalpress.blog/build-your-own-event-loop-in-python/)
 
-*👉 [Decoding Einsum with Python loops: A Practical Guide](https://techtalk.digitalpress.blog/decoding-einsum-with-python/)
+*👉 [**Decoding Einsum with Python loops: A Practical Guide**](https://techtalk.digitalpress.blog/decoding-einsum-with-python/)
 
-*👉 [Charles Proxy: Debug your Android traffic](https://techtalk.digitalpress.blog/charles-proxy/)
+*👉 [**Charles Proxy: Debug your Android traffic**](https://techtalk.digitalpress.blog/charles-proxy/)
 
 <br>
 
