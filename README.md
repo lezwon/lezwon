@@ -4,7 +4,7 @@
 
 <!--Introduction -->
 
-Welcome to my Github profile. I'm Lezwon Castelino. I am currently working as a Computer Vision Engineer at [Camcom.ai](http://camcom.ai/) :camera:. I am also an ex-core contributor to [PyTorch Lightning](https://www.pytorchlightning.ai/) <img src="S9okWqQ9_400x400.png" width="15">. For those interested, following are some of my interesting works on Github :point_down:
+Welcome to my Github profile. I'm Lezwon Castelino. I am currently consulting as a Software Developer. I am an ex-core contributor to [PyTorch Lightning](https://www.pytorchlightning.ai/) <img src="S9okWqQ9_400x400.png" width="15">. For those interested, following are some of my interesting works on Github :point_down:
 <img align="right" alt="GIF" src="dev.gif" width="400" style="margin:0; padding:0;"/>
 
 * ### [**Reinforcement Learning for FIFA**](https://github.com/lezwon/DeepGamingAI_FIFARL) <img src="soccer-ball.png" width=15>
